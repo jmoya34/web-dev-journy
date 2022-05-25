@@ -1,0 +1,24 @@
+/* TAG SELECTORS*/
+
+h1{
+    color: red;
+}
+
+/*CLASS SELECTORS*/
+
+
+.bacon {
+    background-color: green;
+}
+
+.broccoli {
+    background-color: red;
+}
+
+
+/*ID SELECTORS*/
+/* PLEASE NOT THAT HEADINGS MUST BE UNIQUE PER ELEMENT*/
+
+#heading{
+    color: blue;
+}
